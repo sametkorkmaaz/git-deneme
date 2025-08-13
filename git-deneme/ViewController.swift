@@ -18,3 +18,4 @@ class ViewController: UIViewController {
 }
 
 // ilk değişikliğimi yaptım
+// developer 2 değişiklik yaptı
